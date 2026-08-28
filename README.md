@@ -14,7 +14,6 @@ Aplicación portable para Windows enfocada en optimizaciones rápidas para Fortn
 </a>
 
 </div>
-![Uploading image.png…]()
 
 Instalador portable para Windows 10/11 de 64 bits.
 
