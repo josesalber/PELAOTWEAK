@@ -1,5 +1,7 @@
 # PELAO TWEAK AMD
-<img width="1122" height="772" alt="image" src="https://github.com/user-attachments/assets/aa6af6d8-f4c7-4262-8484-b5874be4186a" />
+
+<img width="1122" height="772" alt="image" src="https://github.com/user-attachments/assets/2d8e21a8-d41a-4519-bfc4-79711ba8fd46" />
+
 
 Aplicación portable para Windows enfocada en optimizaciones rápidas para Fortnite, procesos y configuraciones del sistema.
 
