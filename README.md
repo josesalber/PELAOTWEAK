@@ -1,8 +1,5 @@
 # PELAO TWEAK
 
-<img width="1122" height="772" alt="image" src="https://github.com/user-attachments/assets/2d8e21a8-d41a-4519-bfc4-79711ba8fd46" />
-
-
 Aplicación portable para Windows enfocada en optimizaciones rápidas para Fortnite, procesos y configuraciones del sistema.
 
 ## Descargar
@@ -12,6 +9,9 @@ Aplicación portable para Windows enfocada en optimizaciones rápidas para Fortn
 <a href="https://github.com/josesalber/PELAO-TWEAK-AMD/releases/download/amd/PELAO-TWEAK-Setup.exe">
   <img src="https://img.shields.io/badge/⬇%20DESCARGAR%20PELAO%20TWEAK-blue?style=for-the-badge" alt="Descargar PELAO TWEAK">
 </a>
+
+<img width="1122" height="772" alt="image" src="https://github.com/user-attachments/assets/2d8e21a8-d41a-4519-bfc4-79711ba8fd46" />
+
 
 </div>
 
