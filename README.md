@@ -1,4 +1,5 @@
 # PELAO TWEAK AMD
+<img width="1122" height="772" alt="image" src="https://github.com/user-attachments/assets/aa6af6d8-f4c7-4262-8484-b5874be4186a" />
 
 Aplicación portable para Windows enfocada en optimizaciones rápidas para Fortnite, procesos y configuraciones del sistema.
 
@@ -11,6 +12,7 @@ Aplicación portable para Windows enfocada en optimizaciones rápidas para Fortn
 </a>
 
 </div>
+![Uploading image.png…]()
 
 Instalador portable para Windows 10/11 de 64 bits.
 
