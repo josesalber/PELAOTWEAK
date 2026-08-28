@@ -6,22 +6,21 @@ Aplicación portable para Windows enfocada en optimizaciones rápidas para Fortn
 
 <div align="center">
 
-<a href="https://github.com/TU_USUARIO/TU_REPOSITORIO/releases/latest/download/PELAO-TWEAK-Setup.exe">
+<a href="https://github.com/josesalber/PELAO-TWEAK-AMD/releases/download/amd/PELAO-TWEAK-Setup.exe">
   <img src="https://img.shields.io/badge/⬇%20DESCARGAR%20PELAO%20TWEAK-blue?style=for-the-badge" alt="Descargar PELAO TWEAK">
 </a>
 
 </div>
 
-Al presionar el botón, se descargará automáticamente la última versión disponible.
+Instalador portable para Windows 10/11 de 64 bits.
 
-### Instalación
+Al presionar el botón, comenzará la descarga de `PELAO-TWEAK-Setup.exe`.
 
-1. Descarga el archivo haciendo clic en el botón de arriba.
-2. Descomprime el archivo `.zip` completo.
-3. Abre la carpeta descomprimida.
-4. Ejecuta `AMD-Potato-Optimizer.exe`.
+Después de descargarlo:
 
-> No muevas únicamente el archivo `.exe`, ya que la aplicación necesita sus DLLs, assets, configuraciones y archivos de tweaks incluidos en la carpeta.
+1. Abre `PELAO-TWEAK-Setup.exe`.
+2. Sigue las instrucciones del instalador.
+3. Ejecuta PELAO TWEAK AMD desde el acceso directo creado.
 
 ## Requisitos
 
