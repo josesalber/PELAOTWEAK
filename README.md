@@ -10,9 +10,6 @@ Aplicación portable para Windows enfocada en optimizaciones rápidas para Fortn
   <img src="https://img.shields.io/badge/⬇%20DESCARGAR%20PELAO%20TWEAK-blue?style=for-the-badge" alt="Descargar PELAO TWEAK">
 </a>
 
-<img width="1122" height="772" alt="image" src="https://github.com/user-attachments/assets/2d8e21a8-d41a-4519-bfc4-79711ba8fd46" />
-
-
 </div>
 
 Instalador portable para Windows 10/11 de 64 bits.
@@ -24,6 +21,9 @@ Después de descargarlo:
 1. Abre `PELAO-TWEAK-Setup.exe`.
 2. Sigue las instrucciones del instalador.
 3. Ejecuta PELAO TWEAK AMD desde el acceso directo creado.
+
+<img width="1122" height="772" alt="image" src="https://github.com/user-attachments/assets/2d8e21a8-d41a-4519-bfc4-79711ba8fd46" />
+
 
 ## Requisitos
 
