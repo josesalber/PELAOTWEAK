@@ -6,8 +6,8 @@ Aplicación portable para Windows enfocada en optimizaciones rápidas para Fortn
 
 <div align="center">
 
-<a href="https://github.com/TU_USUARIO/TU_REPOSITORIO/releases/latest/download/AMD-Potato-Optimizer-portable.zip">
-  <img src="https://img.shields.io/badge/⬇%20DESCARGAR%20AHORA-AMD%20POTATO%20OPTIMIZER-blue?style=for-the-badge" alt="Descargar PELAO TWEAK AMD">
+<a href="https://github.com/TU_USUARIO/TU_REPOSITORIO/releases/latest/download/PELAO-TWEAK-Setup.exe">
+  <img src="https://img.shields.io/badge/⬇%20DESCARGAR%20PELAO%20TWEAK-blue?style=for-the-badge" alt="Descargar PELAO TWEAK">
 </a>
 
 </div>
