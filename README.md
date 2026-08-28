@@ -1,4 +1,4 @@
-# PELAO TWEAK AMD
+# PELAO TWEAK
 
 <img width="1122" height="772" alt="image" src="https://github.com/user-attachments/assets/2d8e21a8-d41a-4519-bfc4-79711ba8fd46" />
 
