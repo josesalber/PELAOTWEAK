@@ -6,7 +6,7 @@ Aplicación portable para Windows enfocada en optimizaciones rápidas para Fortn
 
 <div align="center">
 
-<a href="https://github.com/josesalber/PELAO-TWEAK-AMD/releases/download/amd/PELAO-TWEAK-Setup.exe">
+<a href="https://github.com/josesalber/PELAOTWEAK/releases/download/tweaks/PELAO-TWEAKER-Setup.exe">
   <img src="https://img.shields.io/badge/⬇%20DESCARGAR%20PELAO%20TWEAK-blue?style=for-the-badge" alt="Descargar PELAO TWEAK">
 </a>
 
