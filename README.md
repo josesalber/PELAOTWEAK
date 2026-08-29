@@ -22,7 +22,7 @@ Después de descargarlo:
 2. Sigue las instrucciones del instalador.
 3. Ejecuta PELAO TWEAK AMD desde el acceso directo creado.
 
-<img width="1122" height="772" alt="image" src="https://github.com/user-attachments/assets/2d8e21a8-d41a-4519-bfc4-79711ba8fd46" />
+<img width="1122" height="924" alt="image" src="https://github.com/user-attachments/assets/e1a909e4-7a5c-46e3-b113-3149784f3c6a" />
 
 
 ## Requisitos
